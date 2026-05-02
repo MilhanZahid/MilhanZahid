@@ -1,7 +1,4 @@
-<!-- HEADER: GIF on right, intro text on left -->
-<table width="100%" border="0">
-<tr>
-<td width="55%" valign="middle">
+
   
   ### Hi there, I'm Milhan Zahid 👋
 
