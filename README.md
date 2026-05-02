@@ -10,7 +10,7 @@
 </td>
 <td width="45%" align="right" valign="middle">
 
-<img src="./assets/Programming_Rules_GIF_by_ProductDock.gif" width="320"/>
+<img src="./assets/giff.gif" width="320"/> giff.gif
 
 </td>
 </tr>
@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-<img src="./assets/giff.gif" width="400"/>
+<img src="./assets/Programming%20Rules%20GIF%20by%20ProductDock.gif" width="400"/>
 </div>
 
 ---
