@@ -1,6 +1,6 @@
 
   
-  ### Hi there, I'm Milhan Zahid 👋
+### Hi there, I'm Milhan Zahid 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&width=500&lines=Co-Founder+%40+Datricx+AI;Building+AI+agents+that+actually+work;Micropayments+for+the+agentic+economy;Blockchain+%7C+MCP+Protocol+%7C+AI+Ops)](https://git.io/typing-svg)
 
@@ -13,6 +13,7 @@
 </tr>
 </table>
 
+---
 ---
 
 ## 🚀 About Me
