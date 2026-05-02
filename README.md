@@ -1,4 +1,6 @@
-# 💫 About Me:
+# ✨ HI There, I'm Milhan 💕✨
+
+## 💫 About Me:
 im an currently working on my bussines datricx. Datricx is an AI operations agency that embeds into US businesses and takes over their procurement, call flows, logistics, and reporting — so they stop doing it manually and start scaling. It is not a marketing agency. It is the operational backbone businesses didn't know they could outsource.<br><br>im looking to collaaborate minds with ideas <br>
 
 
