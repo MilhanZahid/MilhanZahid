@@ -1,24 +1,16 @@
-# ✨ HI There, I'm Milhan ✨
-
-## 💫 About Me:
-im an currently working on my bussines datricx. Datricx is an AI operations agency that embeds into US businesses and takes over their procurement, call flows, logistics, and reporting — so they stop doing it manually and start scaling. It is not a marketing agency. It is the operational backbone businesses didn't know they could outsource.<!-- TOP WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:1f6feb&height=200&section=header&text=Hey,%20I'm%20Milhan%20Zahid%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Co-Founder%20%40%20Datricx%20AI%20·%20AI%20Agent%20Builder%20·%20Blockchain%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- ANIMATED TYPING -->
+<!-- TECHY TERMINAL HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+agents+that+actually+work.;Micropayments+for+the+agentic+economy.;Co-Founder+%40+Datricx+AI.;Shipping+real+things+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+```
+ ███╗   ███╗██╗██╗     ██╗  ██╗ █████╗ ███╗   ██╗
+ ████╗ ████║██║██║     ██║  ██║██╔══██╗████╗  ██║
+ ██╔████╔██║██║██║     ███████║███████║██╔██╗ ██║
+ ██║╚██╔╝██║██║██║     ██╔══██║██╔══██║██║╚██╗██║
+ ██║ ╚═╝ ██║██║███████╗██║  ██║██║  ██║██║ ╚████║
+ ╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-</div>
-
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Co-Founder+%40+Datricx+AI;Building+AI+agents+that+actually+work;Micropayments+for+the+agentic+economy;Blockchain+%7C+MCP+Protocol+%7C+AI+Ops)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,7 +28,6 @@ im an currently working on my bussines datricx. Datricx is an AI operations agen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/milhanzahid/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/imilz_/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@milhanz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:write2milhan@gmail.com)
 
 </div>
@@ -122,41 +113,8 @@ im an currently working on my bussines datricx. Datricx is an AI operations agen
 
 </div>
 
-<!-- BOTTOM WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:6e40c9&height=120&section=footer" width="100%"/>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MilhanZahid&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=MilhanZahid&color=00d9ff&style=flat-square&label=Profile+Views)
 
-</div>badge&logo=firebase&logoColor=ffcd34) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MilhanZahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MilhanZahid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MilhanZahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=MilhanZahid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
