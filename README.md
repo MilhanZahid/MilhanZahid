@@ -38,8 +38,12 @@
 ---
 
 <div align="center">
-<img src="./assets/giff.gif" width="400"/>
+<img src="./assets/Programming_Rules_GIF_by_ProductDock.gif" width="400"/>
 </div>
+
+
+
+
 
 > *First rule of programming — you know the rest.*
 
