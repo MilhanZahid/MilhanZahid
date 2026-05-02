@@ -42,13 +42,6 @@
 </div>
 
 
-
-
-
-> *First rule of programming — you know the rest.*
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
