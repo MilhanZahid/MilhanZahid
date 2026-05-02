@@ -1,7 +1,4 @@
-<!-- HEADER -->
-<table width="100%" border="0">
-<tr>
-<td width="55%" valign="middle">
+
 
 ### Hi there, I'm Milhan Zahid 👋
 
@@ -10,7 +7,7 @@
 </td>
 <td width="45%" align="right" valign="middle">
 
-<img src="./assets/giff.gif" width="320"/> giff.gif
+<img src="./assets/giff.gif" width="320"/> 
 
 </td>
 </tr>
