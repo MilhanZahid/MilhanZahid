@@ -1,18 +1,15 @@
-<!-- TECHY TERMINAL HEADER -->
-<div align="center">
+### Hi there, I'm Milhan Zahid 👋
 
-```
- ███╗   ███╗██╗██╗     ██╗  ██╗ █████╗ ███╗   ██╗
- ████╗ ████║██║██║     ██║  ██║██╔══██╗████╗  ██║
- ██╔████╔██║██║██║     ███████║███████║██╔██╗ ██║
- ██║╚██╔╝██║██║██║     ██╔══██║██╔══██║██║╚██╗██║
- ██║ ╚═╝ ██║██║███████╗██║  ██║██║  ██║██║ ╚████║
- ╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&width=500&lines=Co-Founder+%40+Datricx+AI;Building+AI+agents+that+actually+work;Micropayments+for+the+agentic+economy;Blockchain+%7C+MCP+Protocol+%7C+AI+Ops)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Co-Founder+%40+Datricx+AI;Building+AI+agents+that+actually+work;Micropayments+for+the+agentic+economy;Blockchain+%7C+MCP+Protocol+%7C+AI+Ops)](https://git.io/typing-svg)
+</td>
+<td width="45%" align="right" valign="middle">
 
-</div>
+<img src="./assets/Programming_Rules_GIF_by_ProductDock.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -24,6 +21,10 @@
 - 🎓 Tech student — hackathons, real builds, no fluff
 - 📍 Pakistan → US market
 
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/milhanzahid/)
@@ -31,6 +32,14 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:write2milhan@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+<img src="./assets/giff.gif" width="400"/>
+</div>
+
+> *First rule of programming — you know the rest.*
 
 ---
 
@@ -103,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=MilhanZahid&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=MilhanZahid&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </div>
 
