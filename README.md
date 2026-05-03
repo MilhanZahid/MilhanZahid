@@ -1,4 +1,4 @@
-<img align="right" width="320" src="./assets/giff.gif"/>
+<img align="right" width="250" src="./assets/giff.gif"/>
 <br/>
 
 <br/>
