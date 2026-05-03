@@ -6,7 +6,7 @@
 
 
  ###   Hi there,👋
-# ✨I'm Milhan Zahid ✨<br/><br/><br/><br/>
+# I'm Milhan Zahid ✨<br/><br/><br/><br/>
 
 <br clear="right"/>
 
@@ -14,35 +14,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&width=500&lines=Co-Founder+%40+Datricx+AI;Building+AI+agents+that+actually+work;AI+Engineer+%7C+AI+Ops+%7C+Data+Engineer" />
   </a>
-</p>
-      
-## 🚀 About Me
+</p>  
 
-- 🏢 **Co-Founder of Datricx AI** — an AI & Data Operations agency that embeds into US businesses to automate procurement, call flows, logistics, and reporting. Not a marketing agency. The operational backbone businesses didn't know they could outsource.
-- ⛓️ Recently shipped **[MCPay](https://github.com/MilhanZahid/mcpay)** — a micropayment layer for MCP tool servers using x402 + Circle Nanopayments on Arc (91+ on-chain txns at $0.001 USDC/call)
-- 🤖 Building agentic systems, blockchain-native tooling, and AI ops infrastructure
-- 🎓 Tech student — hackathons, real builds, no fluff
-- 📍 Pakistan → US market
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/milhanzahid/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/imilz_/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:write2milhan@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-<img src="./assets/Programming%20Rules%20GIF%20by%20ProductDock.gif" width="400"/>
-</div>
-
----
 
 ## 💻 Tech Stack
 
@@ -98,6 +71,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/milhanzahid/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/imilz_/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:write2milhan@gmail.com)
+
+</div>
 
 ---
 
