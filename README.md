@@ -92,9 +92,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=MilhanZahid&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://streak-stats.demolab.com/?user=MilhanZahid&v=3&theme=tokyonight&hide_border=true&count_private=true"/>
 
-</div>
+</div> 
 
 <div align="center">
 
