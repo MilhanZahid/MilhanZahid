@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&width=500&lines=Co-Founder+%40+Datricx;Building+AI+agents+for+end+to+end+automation;AI+Engineer+%7C+AI+Ops+%7C+Data+Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&width=500&lines=Building+AI+agents+for+end+to+end+automation;AI+Engineer+%7C+AI+Ops+%7C+Data+Engineer" />
   </a>
 </p>    
 
