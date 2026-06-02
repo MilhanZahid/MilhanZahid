@@ -1,14 +1,11 @@
-<img align="right" width="250" src="./assets/giff.gif"/>
-<br/>
+<div align="center">
 
-<br/>
+### Hi there, 👋
 
+# I'm Milhan Zahid ✨
 
+</div>
 
- ###   Hi there,👋
-# I'm Milhan Zahid ✨<br/><br/><br/><br/>
-<br/>
-<br clear="right"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
